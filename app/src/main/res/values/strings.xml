@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MyEmptyActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_setting">Profile</string>
+    <string name="dummy_name">Baju</string>
+    <string name="dummy_content">ini baju</string>
+    
+    <string-array name="product">
+        <item>Kaos</item>
+        <item>Celana</item>
+        <item>Kemeja</item>
+        <item>Jam Tangan</item>
+        <item>Kacamata</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Kaos Polosan ukuran S</item>
+        <item>Celana ukuran M</item>
+        <item>Kemeja ukuran L</item>
+        <item>Jam tangan laki - laki</item>
+        <item>Kacamata keren</item>
+    </string-array>
+</resources>
